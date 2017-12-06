@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1512506396 source:c:\users\gauravsinghal\desktop\machine learning\kobe\kobe\main.cpp
+	<iostream>
+	"Person.h"
+	"Employee.h"
+
+1512506378 source:c:\users\gauravsinghal\desktop\machine learning\kobe\kobe\person.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"Person.h"
+
+1512499739 c:\users\gauravsinghal\desktop\machine learning\kobe\kobe\person.h
+	<iostream>
+	<string>
+	<new>
+
+1512508698 source:c:\users\gauravsinghal\desktop\machine learning\kobe\kobe\employee.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	"Employee.h"
+
+1512502043 c:\users\gauravsinghal\desktop\machine learning\kobe\kobe\employee.h
+	"Person.h"
+
+1512504321 source:c:\users\gauravsinghal\desktop\machine learning\kobe\kobe\testpersonemployee.cpp
+	<iostream>
+	"Person.h"
+	"Employee.h"
+
